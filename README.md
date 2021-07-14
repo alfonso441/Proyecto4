@@ -18,6 +18,7 @@
 Solución implementada en el archivo P4.py.
 
 A continuación se muestran los datos obtenidos en consola de la simulación.
+
 ![Estadísticas en consola](./0-consola.PNG)
 
 La siguiente imagen muestra las señales de interés, en donde se omitió la de modulación b(t), ya que como se menciona en el video como parte de la explicación del proyecto, esta señal era opcional. Aunque al ejecutar el código esta se genera, los datos no son correctos por lo antes dicho (gráfica de color rojo, ignorar en ejecución).
