@@ -15,7 +15,7 @@
 
 * (50%) Realice una simulación del sistema de comunicaciones como en la sección 3.2., pero utilizando una modulación **16-QAM** en lugar de una modulación BPSK. Deben mostrarse las imágenes enviadas y recuperadas y las formas de onda.
 
-
+![](./0-consola.PNG)
 
 ## 2. - Estacionaridad y ergodicidad
 
